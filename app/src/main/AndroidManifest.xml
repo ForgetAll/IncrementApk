@@ -30,7 +30,7 @@
             tools:replace="android:authorities">
             <meta-data
                 android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/remeet_path" />
+                android:resource="@xml/test_path" />
         </provider>
     </application>
 

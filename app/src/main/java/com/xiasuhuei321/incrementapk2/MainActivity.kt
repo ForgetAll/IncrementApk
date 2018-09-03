@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 
 
         val destApk = File(Environment.getExternalStorageDirectory(), "dest.apk")
-        val patch = File(Environment.getExternalStorageDirectory(), "remeet/PATCH.patch")
+        val patch = File(Environment.getExternalStorageDirectory(), "xxx/PATCH.patch")
 
         patchApkBtn.setOnClickListener {
             Thread {
